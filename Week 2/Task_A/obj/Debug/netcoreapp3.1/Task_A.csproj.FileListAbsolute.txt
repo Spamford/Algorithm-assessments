@@ -1,0 +1,26 @@
+/Users/spamlord710/Desktop/MASTERS/Algorithms and Data Structures Assessments/Assignment/ExerciseWeek2/Task_A/bin/Debug/netcoreapp3.1/Task_A.deps.json
+/Users/spamlord710/Desktop/MASTERS/Algorithms and Data Structures Assessments/Assignment/ExerciseWeek2/Task_A/bin/Debug/netcoreapp3.1/Task_A.runtimeconfig.json
+/Users/spamlord710/Desktop/MASTERS/Algorithms and Data Structures Assessments/Assignment/ExerciseWeek2/Task_A/bin/Debug/netcoreapp3.1/Task_A.runtimeconfig.dev.json
+/Users/spamlord710/Desktop/MASTERS/Algorithms and Data Structures Assessments/Assignment/ExerciseWeek2/Task_A/bin/Debug/netcoreapp3.1/Task_A.dll
+/Users/spamlord710/Desktop/MASTERS/Algorithms and Data Structures Assessments/Assignment/ExerciseWeek2/Task_A/bin/Debug/netcoreapp3.1/Task_A.pdb
+/Users/spamlord710/Desktop/MASTERS/Algorithms and Data Structures Assessments/Assignment/ExerciseWeek2/Task_A/obj/Debug/netcoreapp3.1/Task_A.csproj.AssemblyReference.cache
+/Users/spamlord710/Desktop/MASTERS/Algorithms and Data Structures Assessments/Assignment/ExerciseWeek2/Task_A/obj/Debug/netcoreapp3.1/Task_A.GeneratedMSBuildEditorConfig.editorconfig
+/Users/spamlord710/Desktop/MASTERS/Algorithms and Data Structures Assessments/Assignment/ExerciseWeek2/Task_A/obj/Debug/netcoreapp3.1/Task_A.AssemblyInfoInputs.cache
+/Users/spamlord710/Desktop/MASTERS/Algorithms and Data Structures Assessments/Assignment/ExerciseWeek2/Task_A/obj/Debug/netcoreapp3.1/Task_A.AssemblyInfo.cs
+/Users/spamlord710/Desktop/MASTERS/Algorithms and Data Structures Assessments/Assignment/ExerciseWeek2/Task_A/obj/Debug/netcoreapp3.1/Task_A.csproj.CoreCompileInputs.cache
+/Users/spamlord710/Desktop/MASTERS/Algorithms and Data Structures Assessments/Assignment/ExerciseWeek2/Task_A/obj/Debug/netcoreapp3.1/Task_A.dll
+/Users/spamlord710/Desktop/MASTERS/Algorithms and Data Structures Assessments/Assignment/ExerciseWeek2/Task_A/obj/Debug/netcoreapp3.1/Task_A.pdb
+/Users/spamlord710/Desktop/MASTERS/Algorithms and Data Structures Assessments/Assignment/ExerciseWeek2/Task_A/obj/Debug/netcoreapp3.1/Task_A.genruntimeconfig.cache
+/Users/spamlord710/Desktop/Assessed Exercises-2/Week 2/Task_A/bin/Debug/netcoreapp3.1/Task_A.deps.json
+/Users/spamlord710/Desktop/Assessed Exercises-2/Week 2/Task_A/bin/Debug/netcoreapp3.1/Task_A.runtimeconfig.json
+/Users/spamlord710/Desktop/Assessed Exercises-2/Week 2/Task_A/bin/Debug/netcoreapp3.1/Task_A.runtimeconfig.dev.json
+/Users/spamlord710/Desktop/Assessed Exercises-2/Week 2/Task_A/bin/Debug/netcoreapp3.1/Task_A.dll
+/Users/spamlord710/Desktop/Assessed Exercises-2/Week 2/Task_A/bin/Debug/netcoreapp3.1/Task_A.pdb
+/Users/spamlord710/Desktop/Assessed Exercises-2/Week 2/Task_A/obj/Debug/netcoreapp3.1/Task_A.csproj.AssemblyReference.cache
+/Users/spamlord710/Desktop/Assessed Exercises-2/Week 2/Task_A/obj/Debug/netcoreapp3.1/Task_A.GeneratedMSBuildEditorConfig.editorconfig
+/Users/spamlord710/Desktop/Assessed Exercises-2/Week 2/Task_A/obj/Debug/netcoreapp3.1/Task_A.AssemblyInfoInputs.cache
+/Users/spamlord710/Desktop/Assessed Exercises-2/Week 2/Task_A/obj/Debug/netcoreapp3.1/Task_A.AssemblyInfo.cs
+/Users/spamlord710/Desktop/Assessed Exercises-2/Week 2/Task_A/obj/Debug/netcoreapp3.1/Task_A.csproj.CoreCompileInputs.cache
+/Users/spamlord710/Desktop/Assessed Exercises-2/Week 2/Task_A/obj/Debug/netcoreapp3.1/Task_A.dll
+/Users/spamlord710/Desktop/Assessed Exercises-2/Week 2/Task_A/obj/Debug/netcoreapp3.1/Task_A.pdb
+/Users/spamlord710/Desktop/Assessed Exercises-2/Week 2/Task_A/obj/Debug/netcoreapp3.1/Task_A.genruntimeconfig.cache

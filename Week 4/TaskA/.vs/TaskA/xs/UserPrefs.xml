@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{3C0B4455-7BA3-4562-9A62-7C54E60D8293}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Classes/BinTree.cs">
+    <Files>
+      <File FileName="Program.cs" Line="33" Column="65" />
+      <File FileName="Classes/BinTree.cs" Line="43" Column="1" />
+      <File FileName="Classes/Node.cs" Line="10" Column="49" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TaskA" expanded="True">
+            <Node name="TaskA" expanded="True">
+              <Node name="Classes" expanded="True">
+                <Node name="BinTree.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TaskA PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

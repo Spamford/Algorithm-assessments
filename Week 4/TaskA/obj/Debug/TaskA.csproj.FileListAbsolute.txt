@@ -1,0 +1,12 @@
+/Users/spamlord710/Desktop/MASTERS/Algorithms and Data Structures Assessments/Assignment/ExerciseWeek4/TaskA/bin/Debug/TaskA.exe
+/Users/spamlord710/Desktop/MASTERS/Algorithms and Data Structures Assessments/Assignment/ExerciseWeek4/TaskA/bin/Debug/TaskA.pdb
+/Users/spamlord710/Desktop/MASTERS/Algorithms and Data Structures Assessments/Assignment/ExerciseWeek4/TaskA/obj/Debug/TaskA.csproj.AssemblyReference.cache
+/Users/spamlord710/Desktop/MASTERS/Algorithms and Data Structures Assessments/Assignment/ExerciseWeek4/TaskA/obj/Debug/TaskA.csproj.CoreCompileInputs.cache
+/Users/spamlord710/Desktop/MASTERS/Algorithms and Data Structures Assessments/Assignment/ExerciseWeek4/TaskA/obj/Debug/TaskA.exe
+/Users/spamlord710/Desktop/MASTERS/Algorithms and Data Structures Assessments/Assignment/ExerciseWeek4/TaskA/obj/Debug/TaskA.pdb
+C:\Users\ojtay\OneDrive\Desktop\Assessed Exercises\Week 4\TaskA\bin\Debug\TaskA.exe
+C:\Users\ojtay\OneDrive\Desktop\Assessed Exercises\Week 4\TaskA\bin\Debug\TaskA.pdb
+C:\Users\ojtay\OneDrive\Desktop\Assessed Exercises\Week 4\TaskA\obj\Debug\TaskA.csprojAssemblyReference.cache
+C:\Users\ojtay\OneDrive\Desktop\Assessed Exercises\Week 4\TaskA\obj\Debug\TaskA.csproj.CoreCompileInputs.cache
+C:\Users\ojtay\OneDrive\Desktop\Assessed Exercises\Week 4\TaskA\obj\Debug\TaskA.exe
+C:\Users\ojtay\OneDrive\Desktop\Assessed Exercises\Week 4\TaskA\obj\Debug\TaskA.pdb

@@ -1,0 +1,20 @@
+C:\Users\ojtay\OneDrive\Desktop\ExerciseWeek3\TaskB\TaskB\bin\Debug\TaskB.exe.config
+C:\Users\ojtay\OneDrive\Desktop\ExerciseWeek3\TaskB\TaskB\bin\Debug\TaskB.exe
+C:\Users\ojtay\OneDrive\Desktop\ExerciseWeek3\TaskB\TaskB\bin\Debug\TaskB.pdb
+C:\Users\ojtay\OneDrive\Desktop\ExerciseWeek3\TaskB\TaskB\obj\Debug\TaskB.csprojAssemblyReference.cache
+C:\Users\ojtay\OneDrive\Desktop\ExerciseWeek3\TaskB\TaskB\obj\Debug\TaskB.Properties.Resources.resources
+C:\Users\ojtay\OneDrive\Desktop\ExerciseWeek3\TaskB\TaskB\obj\Debug\TaskB.csproj.GenerateResource.cache
+C:\Users\ojtay\OneDrive\Desktop\ExerciseWeek3\TaskB\TaskB\obj\Debug\TaskB.csproj.CoreCompileInputs.cache
+C:\Users\ojtay\OneDrive\Desktop\ExerciseWeek3\TaskB\TaskB\obj\Debug\TaskB.exe
+C:\Users\ojtay\OneDrive\Desktop\ExerciseWeek3\TaskB\TaskB\obj\Debug\TaskB.pdb
+C:\Users\ojtay\OneDrive\Desktop\ExerciseWeek3\TaskB\TaskB\obj\Debug\TaskB.AddLabel.resources
+C:\Users\ojtay\OneDrive\Desktop\AssessedExercises\Assessed Exercises\Week 3\TaskB\bin\Debug\TaskB.exe.config
+C:\Users\ojtay\OneDrive\Desktop\AssessedExercises\Assessed Exercises\Week 3\TaskB\bin\Debug\TaskB.exe
+C:\Users\ojtay\OneDrive\Desktop\AssessedExercises\Assessed Exercises\Week 3\TaskB\bin\Debug\TaskB.pdb
+C:\Users\ojtay\OneDrive\Desktop\AssessedExercises\Assessed Exercises\Week 3\TaskB\obj\Debug\TaskB.csprojAssemblyReference.cache
+C:\Users\ojtay\OneDrive\Desktop\AssessedExercises\Assessed Exercises\Week 3\TaskB\obj\Debug\TaskB.AddLabel.resources
+C:\Users\ojtay\OneDrive\Desktop\AssessedExercises\Assessed Exercises\Week 3\TaskB\obj\Debug\TaskB.Properties.Resources.resources
+C:\Users\ojtay\OneDrive\Desktop\AssessedExercises\Assessed Exercises\Week 3\TaskB\obj\Debug\TaskB.csproj.GenerateResource.cache
+C:\Users\ojtay\OneDrive\Desktop\AssessedExercises\Assessed Exercises\Week 3\TaskB\obj\Debug\TaskB.csproj.CoreCompileInputs.cache
+C:\Users\ojtay\OneDrive\Desktop\AssessedExercises\Assessed Exercises\Week 3\TaskB\obj\Debug\TaskB.exe
+C:\Users\ojtay\OneDrive\Desktop\AssessedExercises\Assessed Exercises\Week 3\TaskB\obj\Debug\TaskB.pdb

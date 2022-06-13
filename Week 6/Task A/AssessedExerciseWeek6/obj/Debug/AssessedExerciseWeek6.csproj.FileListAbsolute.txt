@@ -1,0 +1,30 @@
+C:\Users\ojtay\OneDrive\Desktop\AssessedExerciseWeek6\obj\Debug\AssessedExerciseWeek6.csprojAssemblyReference.cache
+C:\Users\ojtay\OneDrive\Desktop\AssessedExerciseWeek6\obj\Debug\AssessedExerciseWeek6.Form1.resources
+C:\Users\ojtay\OneDrive\Desktop\AssessedExerciseWeek6\obj\Debug\AssessedExerciseWeek6.Properties.Resources.resources
+C:\Users\ojtay\OneDrive\Desktop\AssessedExerciseWeek6\obj\Debug\AssessedExerciseWeek6.csproj.GenerateResource.cache
+C:\Users\ojtay\OneDrive\Desktop\AssessedExerciseWeek6\obj\Debug\AssessedExerciseWeek6.csproj.CoreCompileInputs.cache
+C:\Users\ojtay\OneDrive\Desktop\AssessedExerciseWeek6\bin\Debug\AssessedExerciseWeek6.exe.config
+C:\Users\ojtay\OneDrive\Desktop\AssessedExerciseWeek6\bin\Debug\AssessedExerciseWeek6.exe
+C:\Users\ojtay\OneDrive\Desktop\AssessedExerciseWeek6\bin\Debug\AssessedExerciseWeek6.pdb
+C:\Users\ojtay\OneDrive\Desktop\AssessedExerciseWeek6\obj\Debug\AssessedExerciseWeek6.exe
+C:\Users\ojtay\OneDrive\Desktop\AssessedExerciseWeek6\obj\Debug\AssessedExerciseWeek6.pdb
+C:\Users\ojtay\OneDrive\Desktop\AssessedExercises\AssessedExerciseWeek6\bin\Debug\AssessedExerciseWeek6.exe.config
+C:\Users\ojtay\OneDrive\Desktop\AssessedExercises\AssessedExerciseWeek6\bin\Debug\AssessedExerciseWeek6.exe
+C:\Users\ojtay\OneDrive\Desktop\AssessedExercises\AssessedExerciseWeek6\bin\Debug\AssessedExerciseWeek6.pdb
+C:\Users\ojtay\OneDrive\Desktop\AssessedExercises\AssessedExerciseWeek6\obj\Debug\AssessedExerciseWeek6.csprojAssemblyReference.cache
+C:\Users\ojtay\OneDrive\Desktop\AssessedExercises\AssessedExerciseWeek6\obj\Debug\AssessedExerciseWeek6.Form1.resources
+C:\Users\ojtay\OneDrive\Desktop\AssessedExercises\AssessedExerciseWeek6\obj\Debug\AssessedExerciseWeek6.Properties.Resources.resources
+C:\Users\ojtay\OneDrive\Desktop\AssessedExercises\AssessedExerciseWeek6\obj\Debug\AssessedExerciseWeek6.csproj.GenerateResource.cache
+C:\Users\ojtay\OneDrive\Desktop\AssessedExercises\AssessedExerciseWeek6\obj\Debug\AssessedExerciseWeek6.csproj.CoreCompileInputs.cache
+C:\Users\ojtay\OneDrive\Desktop\AssessedExercises\AssessedExerciseWeek6\obj\Debug\AssessedExerciseWeek6.exe
+C:\Users\ojtay\OneDrive\Desktop\AssessedExercises\AssessedExerciseWeek6\obj\Debug\AssessedExerciseWeek6.pdb
+C:\Users\ojtay\OneDrive\Desktop\Assessed Exercises\Week 6\Task A\AssessedExerciseWeek6\bin\Debug\AssessedExerciseWeek6.exe.config
+C:\Users\ojtay\OneDrive\Desktop\Assessed Exercises\Week 6\Task A\AssessedExerciseWeek6\bin\Debug\AssessedExerciseWeek6.exe
+C:\Users\ojtay\OneDrive\Desktop\Assessed Exercises\Week 6\Task A\AssessedExerciseWeek6\bin\Debug\AssessedExerciseWeek6.pdb
+C:\Users\ojtay\OneDrive\Desktop\Assessed Exercises\Week 6\Task A\AssessedExerciseWeek6\obj\Debug\AssessedExerciseWeek6.csprojAssemblyReference.cache
+C:\Users\ojtay\OneDrive\Desktop\Assessed Exercises\Week 6\Task A\AssessedExerciseWeek6\obj\Debug\AssessedExerciseWeek6.Form1.resources
+C:\Users\ojtay\OneDrive\Desktop\Assessed Exercises\Week 6\Task A\AssessedExerciseWeek6\obj\Debug\AssessedExerciseWeek6.Properties.Resources.resources
+C:\Users\ojtay\OneDrive\Desktop\Assessed Exercises\Week 6\Task A\AssessedExerciseWeek6\obj\Debug\AssessedExerciseWeek6.csproj.GenerateResource.cache
+C:\Users\ojtay\OneDrive\Desktop\Assessed Exercises\Week 6\Task A\AssessedExerciseWeek6\obj\Debug\AssessedExerciseWeek6.csproj.CoreCompileInputs.cache
+C:\Users\ojtay\OneDrive\Desktop\Assessed Exercises\Week 6\Task A\AssessedExerciseWeek6\obj\Debug\AssessedExerciseWeek6.exe
+C:\Users\ojtay\OneDrive\Desktop\Assessed Exercises\Week 6\Task A\AssessedExerciseWeek6\obj\Debug\AssessedExerciseWeek6.pdb
